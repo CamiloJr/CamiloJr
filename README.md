@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo Barreto</h1>
-<h3 align="center">A passionate XR developer from Brazil</h3>
+<h3 align="center">A XR and Java Backend developer</h3>
 
 - 🔭 I'm currently working on:
   - **Virtual Reality** projects for supervision and training in electrical substation environments
