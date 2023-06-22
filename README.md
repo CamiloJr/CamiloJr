@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Camilo Barreto</h1>
 <h3 align="center">A passionate XR developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Virtual Reality Cemig for supervision and training in electrical substation environments**
+- 🔭 I'm currently working on:
+  - **Virtual Reality** projects for supervision and training in electrical substation environments
+  - **Web Services Projects with REST API** with Java and Spring Boot Framework
+  - **Teacher** of higher education and computer technician at the Federal Institute of Triangulo Mineiro (IFTM)- Brazil
+  - Development of systems for **robots and drones**
 
 - 👨‍💻 All of my projects are available at [https://camilojr.github.io/](https://camilojr.github.io/)
 
 - 📝 I regularly write articles on [https://orcid.org/0000-0001-7250-605X](https://orcid.org/0000-0001-7250-605X)
 
-- 💬 Ask me about **Unity Engine, 3DsMax, Maya, Microservices**
+- 💬 Ask me about **Java Spring Boot, Microservices, Unity Engine, 3DsMax, AutoCAD**
 
 - 📫 How to reach me **barretojuniormail@gmail.com**
 
